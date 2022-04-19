@@ -1,0 +1,10 @@
+[[Qt6ShaderTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f18b3215689bcecb5eb8edbbc48d2039e4a51e4"
+libc = "musl"
+os = "linux"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "5d07ada4121dce57a40e8352b6b30f7e3e83e90d382ef06aa56a70cc72d23ef4"
+    url = "https://github.com/barche/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.3.0+0/Qt6ShaderTools.v6.3.0.x86_64-linux-musl-cxx11.tar.gz"
