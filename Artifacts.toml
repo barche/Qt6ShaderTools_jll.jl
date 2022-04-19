@@ -8,3 +8,11 @@ os = "linux"
     [[Qt6ShaderTools.download]]
     sha256 = "5d07ada4121dce57a40e8352b6b30f7e3e83e90d382ef06aa56a70cc72d23ef4"
     url = "https://github.com/barche/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.3.0+0/Qt6ShaderTools.v6.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6ShaderTools]]
+arch = "x86_64"
+git-tree-sha1 = "1abbf7db45bc7d662ca8cc5ebe0df6cef9640d9d"
+os = "macos"
+
+    [[Qt6ShaderTools.download]]
+    sha256 = "3395f5fd2918eec306e5ac38cece8c33335060cb8b04219b66b81b8fbe4a7343"
+    url = "https://github.com/barche/Qt6ShaderTools_jll.jl/releases/download/Qt6ShaderTools-v6.3.0+1/Qt6ShaderTools.v6.3.0.x86_64-apple-darwin.tar.gz"
